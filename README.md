@@ -1,7 +1,7 @@
 ### Hello World, sou Leonardo Barros.
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barros-083104248/)
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitass____/)
+
 
 
 ![LeonardoCiprianoBarros GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCiprianoBarros&show_icons=true&theme=radical)
